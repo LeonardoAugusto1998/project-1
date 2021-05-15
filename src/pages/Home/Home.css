@@ -1,0 +1,29 @@
+.post{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center; 
+    background-color: rgb(255, 255, 255);  
+}
+.img{
+    width: 700px;
+    height: 300px;
+    border-radius: 10px;
+    transition: all 0.8s;
+    cursor: pointer;
+    margin-top: -20px;
+    
+}
+.img:hover{
+    width: 750px;
+    height: 340px;
+}
+
+
+
+.nome{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+}
+

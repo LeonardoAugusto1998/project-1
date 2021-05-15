@@ -1,0 +1,12 @@
+.blocoError{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px;
+    align-items: center;
+}
+
+.imagemtriste{
+    width: 300px;
+    height: 300px;
+}
